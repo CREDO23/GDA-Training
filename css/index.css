@@ -1,0 +1,53 @@
+body {
+  background-color: #eeeeee;
+}
+
+p {
+  font-size: 18px;
+}
+
+.header {
+  text-align: center;
+}
+
+.mon-image {
+  background-color: #fff;
+  text-align: center;
+  padding: 6px;
+}
+
+.mon-image > img {
+  display: block;
+  margin: auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer > p {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.mon-parcours {
+  width: 700px;
+  margin: auto;
+}
+
+.mon-parcours > h3 {
+  text-align: center;
+}
+
+footer {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.mon-parcours > ul > li span {
+  font-weight: bold;
+}
+
+#mon-lien {
+  color: blue;
+}
